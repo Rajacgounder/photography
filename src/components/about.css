@@ -1,0 +1,37 @@
+.about-area {
+  position: relative;
+  display: flex;
+  /* align-items: flex-start; */
+  flex-direction: row;
+  width: 900px;
+  height: fit-content;
+  align-items: center;
+  object-fit: fill;
+  padding-bottom: 200px;
+  padding-left: 250px;
+}
+
+.about-picture {
+  width: 300px;
+
+  display: flex;
+  align-items: center;
+  background-color: rgb(190, 190, 190);
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  min-width: auto;
+  max-width: 300px;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  align-content: flex-start;
+  text-align: justify;
+  margin-right: 20px;
+  object-fit: fill;
+}

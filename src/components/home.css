@@ -1,0 +1,32 @@
+.pic {
+  height: 79vh;
+  max-width: fit-content;
+  object-fit: fill;
+  background-size: cover;
+}
+
+.photo {
+  width: 100%;
+  height: 79vh;
+  object-fit: fill;
+  background-size: cover;
+}
+.head-text {
+  position: relative;
+}
+.text-on-image {
+  position: absolute;
+  right: 50%;
+  left: 50%;
+  bottom: 15%;
+  color: brown;
+}
+
+.background {
+  width: 100%;
+  object-fit: fill;
+}
+
+/* .home {
+  background-size: cover;
+} */

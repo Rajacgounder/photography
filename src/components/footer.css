@@ -1,0 +1,40 @@
+.footer__main {
+  width: auto;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+  position: sticky;
+  border-top: 1px solid lightgray;
+  padding-bottom: 0%;
+}
+
+.footer {
+  text-align: center;
+}
+
+.whatsapp-icon {
+  color: black;
+}
+.whatsapp-icon:hover {
+  color: #25d366;
+}
+
+.instagram-icon {
+  color: black;
+}
+
+.instagram-icon:hover {
+  color: #e4405f;
+}
+
+.facebook-icon {
+  color: black;
+}
+
+.facebook-icon:hover {
+  color: #3b5998;
+}
+
+.icon:hover {
+  color: red;
+}
